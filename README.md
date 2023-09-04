@@ -26,7 +26,7 @@ Key Questions :
  
 Insights of the dashboard :
 
-  Total income is $ 798K, Total Expenses is $ 548K & Available balance is $ 1Million.
+  Total income is $798K, Total Expenses is $548K & Available balance is $ 1Million.
   According to Main Income January, April, June, August & November met the Total Income Target.
   7 months does not met the target according to Main Income.
   In the month of November, it has more income and in July less income according to Main Income.
